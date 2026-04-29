@@ -8,3 +8,6 @@
 [submodule "gtDesign"]
 	path = gtDesign
 	url = https://github.com/chikuang/gtdesign
+[submodule "rtForecastEval"]
+	path = rtForecastEval
+	url = https://github.com/chikuang/rtforecasteval
